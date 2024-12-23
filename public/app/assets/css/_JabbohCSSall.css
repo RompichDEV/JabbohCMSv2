@@ -1,0 +1,9 @@
+/* JabbohCMS
+CSS par Emp0rR-
+ce fichier ne doit pas être toucher, risque de bugs
+2024 copyright Jabboh.fr
+ */
+
+@import url(./_bases.css);
+@import url(./_index.css);
+@import url(./_register.css);
